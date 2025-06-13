@@ -17,7 +17,7 @@ import { Button } from "@/components/ui/button";
 
 const Navbar = () => {
   return (
-    <header className="font-sans fixed top-0 right-0 left-0 bg-transparent backdrop-blur-lg bo border-foreground/15">
+    <header className="fixed top-0 right-0 left-0 bg-transparent backdrop-blur-lg bo border-foreground/15">
       <div className="container px-4 py-4 mx-auto flex justify-between items-center">
         <div className="flex items-center text-lg">
           <p>Fu</p>
